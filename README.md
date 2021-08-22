@@ -1,5 +1,5 @@
 # jntu-scraper
-Results page scraping of jntuh website
+Results page scraping of jntuh website and OU
 
 ## Basic usage
  
